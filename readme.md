@@ -6,12 +6,12 @@
 Allows creation of a Facebook feed by converting access tokens into long lived and permanent access tokens. 
 
 ## Requirements
-* SilverStripe CMS ^4.0
+* SilverStripe CMS ^4
 
 ## Installation
 
 ```
-composer require internetrix/silverstripe-facebookfeed
+composer require dexven/facebook-key-converter
 ```
 
 
